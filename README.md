@@ -1,3 +1,4 @@
+You have to set the "title" using "Postman" first.
 IF you want to run this project locally you can do certien few steps:
 1-set a new connection in dbVisuallizer with the same name of the database that use it in the project - username=root & password=root.
  or it will created when you run the project because It is mentioned thier in application.properties file: "createDatabaseIfNotExist=true"
